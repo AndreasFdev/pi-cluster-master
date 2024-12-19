@@ -1,0 +1,6 @@
+/ansible/roles/ricsanfre.*
+/ansible/ansible_collections
+/certbot
+/certificates
+/docs/_site
+/docs/Gemfile.lock
