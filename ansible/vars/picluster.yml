@@ -118,7 +118,7 @@ ionos_api_endpoint: https://api.hosting.ionos.com
 
 
 # issuer email
-acme_issuer_email: admin@ricsanfre.com
+acme_issuer_email: andreas.hagen.dev@gmail.com
 
 ##########################
 # Minio S3 configuration #
