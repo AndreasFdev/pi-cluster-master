@@ -11,7 +11,7 @@ all:
       hosts:
         s3:
           hostname: s3
-          ansible_host: s3.ricsanfre.com
+          ansible_host: s3.perdx.com
     picluster:
       hosts:
         node1:
